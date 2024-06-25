@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+	<a href="https://beacons.ai/agapitoo">
+	<img height="160em" src="http://github-readme-stats.vercel.app/api?username=agapitoo&show_icons=true&theme=cobalt&include_commits=true&count_private=true"/_>
+	<img height="160em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=agapitoo&layout=compact&langs_count=16&theme=cobalt"/_>
+</div>
+
+
