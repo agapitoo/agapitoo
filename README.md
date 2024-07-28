@@ -69,7 +69,5 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-<div align="center">
-  ![Snake animation](https://github.com/agapitoo/agapitoo/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
