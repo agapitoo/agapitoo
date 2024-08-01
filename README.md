@@ -10,7 +10,7 @@
   <img src="https://profile-counter.glitch.me/agapitoo/count.svg?"  />
 </div>
 
-###
+
 <div align="center">
   <h3>🛠 Tech Stack</h3>
   <p>
@@ -52,8 +52,8 @@
     </a>
   </p>
 </div>
-###
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/agapitoo/agapitoo/output/snake.svg" alt="Snake animation" />
-###
+
 
