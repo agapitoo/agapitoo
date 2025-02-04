@@ -5,7 +5,7 @@
 
 <h3 align="center">💡 Sobre Mim</h3>
 <p align="center">
-Sou uma desenvolvedora full stack com experiência em tecnologias modernas como Angular, Java e Spring. Trago uma perspectiva única para a tecnologia devido à minha transição de carreira da enfermagem, com foco em empatia e soluções eficazes.  
+Sou uma desenvolvedora full stack com experiência em tecnologias modernas como Angular, Java e Spring. 
 </p>
 <p align="center">
 Tenho interesse especial em <strong>análise de dados</strong> e computação em nuvem, utilizando ferramentas como <strong>AWS</strong> para criar aplicações robustas e escaláveis.  
